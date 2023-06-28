@@ -1,5 +1,4 @@
 This is some text
 Some content
 Shine bright like a diamond
-Shine bright like a diamond
------------------------------------------
+ Shine bright like a diamond
